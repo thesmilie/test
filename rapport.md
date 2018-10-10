@@ -131,3 +131,5 @@ Trouver les fichiers qui ont été modifiés plus récemment qu'un autre spécif
 Trouver les fichiers qui se terminent par .o et les supprimer:
 	
 	find -name "*.o" -exec rm {} \;
+
+bonjour
