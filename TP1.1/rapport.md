@@ -1,6 +1,6 @@
 Emilie Hela
 Maï Leroy
-groupe 8
+groupe 10
 
 # TP 1.1 Shell - Système d'exploitation
 
